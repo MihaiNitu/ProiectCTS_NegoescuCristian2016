@@ -1,0 +1,20 @@
+ 
+ Magazinul de biciclete Pegas este unic furnizor in Romania. (Singleton)
+ Clienti pot alege din mai multe modele de biciclete (Factory)
+ Clineti pot configura bicicletele setand diverse atribute dupa gust cum ar fi tipul de cauciucuri, modelul de schimbatoare, culoare.(Builder)
+ Bicicletele vandute vor avea preturi ce difera in functie de locatia magazinelor.(Chain of resp.)
+ O comanda nu poate fi plasata daca stocul este indisponibil, dar poate fi pusa in asteptare si reluata la realimentarea stocului (Command)(State)
+ O comanda nu aceept selectare decat unui singur tip de cauciuc, daca utlizatorul alege un set de asfalt si un set de macadam i se va cere sa aleaga un singur fel.(Flyweight) 
+ Dupa plasarea unei comenzi utilizatorul va putea vedea toate detaliile comenzii. (Template)
+
+
+ 
+ 
+ Singleton
+ Factory
+ Builder
+ Chain of resp.
+ Command
+ Flyweight
+ State
+ Template
